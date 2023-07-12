@@ -1,0 +1,38 @@
+@import "../../node_modules/normalize.css/normalize";
+//@import "../../node_modules/slick-carousel/slick/slick";
+//@import "../../node_modules/magnific-popup/dist/magnific-popup";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Gilroy, sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+    background-color: #FFFFFF;
+}
+
+a {
+    text-decoration: none;
+    display: inline-block;
+    color: #FFFFFF;
+}
+
+li {
+    list-style: none;
+}
+
+.container {
+    max-width: 1326px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+
+//HEADER
+
